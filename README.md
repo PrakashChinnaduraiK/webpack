@@ -5,3 +5,6 @@ Historically when building a javascript application, your javascript code would 
 Webpack intelligently creates a bundle for you, both of those problems go away. Don't have to worry about forgetting a script tag and don't have to worry about the order.
 
 Webpack is a module bundler, it examines all of the modules in your application, create a dependency graph and then intelligently puts all of them together into one or more bundles . 
+
+
+## I've tried some of the concepts and pushed the codes in differents branch. Please check it out. 
