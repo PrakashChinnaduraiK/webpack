@@ -7,4 +7,3 @@ Webpack intelligently creates a bundle for you, both of those problems go away. 
 Webpack is a module bundler, it examines all of the modules in your application, create a dependency graph and then intelligently puts all of them together into one or more bundles . 
 
 
-## I've tried some of the concepts and pushed the codes into differents branches in this project repo. Please check it out. 
